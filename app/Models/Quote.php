@@ -6,5 +6,5 @@ use Illuminate\Database\Eloquent\Model;
 
 class Quote extends Model
 {
-    protected $fillable = ["quote_text", "author"];
+    protected $fillable = ['quote_text', 'author'];
 }
